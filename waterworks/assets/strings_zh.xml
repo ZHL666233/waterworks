@@ -1463,7 +1463,7 @@ $ 1 $ 2 $ 3 $ 4 - 如上所述, 这是每个区域的当前效率.
 注意:教程将自动禁用.</string>
     </tooltip>
     <tooltip id="btn_dificulty_hard2">
-        <string>为了自来水厂!仅限精英玩家.
+        <string>仅限Waterworks! 老手。
 
 - 价格 +10%
 - 每回合只抽取3张卡牌
