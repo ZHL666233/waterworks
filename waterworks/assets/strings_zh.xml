@@ -49,8 +49,7 @@
          
     <card id="trained_personnel">
         <name>工程师</name>
-        <desc>一组受过培训的
-给排水系统操作人员。
+        <desc>一组受过培训的给排水系统操作人员。
 可用于}建筑}工程。
 使用后从游戏中移除。</desc>
         <desc2>"未来是我们的！"</desc2>
@@ -60,8 +59,7 @@
         
     <card id="pipe">
         <name>水管</name>
-        <desc>连接水管
-将水输送到城镇各处。</desc>
+        <desc>连接水管将水 输送到城镇各处。</desc>
         <desc2>"拿一根树干，从头到尾钻个洞就行了！"</desc2>
 </card>
     <card id="well">
@@ -72,8 +70,7 @@
     <card id="sump">
         <name>蓄水池</name>
         <desc>需要水管连接。
-为相邻街区提供$ x。
-x*取决于距离和水厂等级。</desc>
+为相邻街区提供$ x。x*取决于距离和水厂等级。</desc>
         <desc2>"自动补水桶！"</desc2>
 </card>
 
@@ -179,23 +176,17 @@ x*取决于距离和水厂等级。</desc>
 </card>
     <card id="small_gift">
         <name>小礼物</name>
-        <desc>一枚闪亮的金戒指。
-你可以把这份礼物送给城镇统治者
-以获得#10。</desc>
+        <desc>一枚闪亮的金戒指。你可以 把这份礼物送给城镇统治者 以获得#10。</desc>
         <desc2>"闪闪发光！"</desc2>
 </card>
     <card id="medium_gift">
         <name>普通礼物</name>
-        <desc>一条漂亮的项链。
-你可以把这份礼物送给城镇统治者
-以获得#20。</desc>
+        <desc>一条漂亮的项链。你可以 把这份礼物送给城镇统治者 以获得#20。</desc>
         <desc2>"最新时尚潮流！"</desc2>
 </card>
     <card id="big_gift">
         <name>厚礼</name>
-        <desc>这条手镯太闪亮了！
-你可以把这份礼物送给城镇统治者
-以获得#40。</desc>
+        <desc>这条手镯太闪亮了！你可以 把这份礼物送给城镇统治者 以获得#40。</desc>
         <desc2>"闪光的未必都是金子，还有宝石。"</desc2>
 </card>
     <card id="small_donation">
@@ -254,8 +245,7 @@ x*取决于距离和水厂等级。</desc>
 </card>
     <card id="upgraded_water_source">
         <name>升级水源</name>
-        <desc>随着城镇发展，
-一个码头已不够用。</desc>
+        <desc>随着城镇发展， 一个码头已不够用。</desc>
         <desc2></desc2>
 </card>
     <card id="quarters">
@@ -280,8 +270,7 @@ x*取决于距离和水厂等级。</desc>
 </card>
     <card id="archive2">
         <name>档案室II</name>
-        <desc>增加档案室中
-\ 文件卡槽位数量。</desc>
+        <desc>增加档案室中\ 文件卡槽位数量。</desc>
         <desc2></desc2>
 </card>
     <card id="warehouse2">
@@ -291,20 +280,17 @@ x*取决于距离和水厂等级。</desc>
 </card>
     <card id="quarters3">
         <name>营房III</name>
-        <desc>将营房中
-_ 工人卡槽位提升至最大。</desc>
+        <desc>将营房中_ 工人卡槽位提升至最大。</desc>
         <desc2></desc2>
 </card>
     <card id="archive3">
         <name>档案室III</name>
-        <desc>将档案室中
-\ 文件卡槽位提升至最大。</desc>
+        <desc>将档案室中\ 文件卡槽位提升至最大。</desc>
         <desc2></desc2>
 </card>
     <card id="warehouse3">
         <name>仓库III</name>
-        <desc>将仓库中
-~ 资源卡槽位提升至最大。</desc>
+        <desc>将仓库中~ 资源卡槽位提升至最大。</desc>
         <desc2></desc2>
 </card>
     <card id="office">
@@ -324,8 +310,7 @@ _ 工人卡槽位提升至最大。</desc>
 </card>
     <card id="carts">
         <name>运水车</name>
-        <desc>这项发明将把所有运水工
-升级为运水车。</desc>
+        <desc>这项发明将把所有 运水工升级为运水车。</desc>
         <desc2></desc2>
 </card>
     <card id="hermans_ditch">
@@ -335,8 +320,7 @@ _ 工人卡槽位提升至最大。</desc>
 </card>
     <card id="wells">
         <name>水井</name>
-        <desc>开发在城镇中
-挖掘普通水井的方法。</desc>
+        <desc>开发在城镇中 挖掘普通水井的方法。</desc>
         <desc2></desc2>
 </card>
     <card id="cartography">
@@ -391,8 +375,7 @@ _ 工人卡槽位提升至最大。</desc>
 </card>
     <card id="workshop2">
         <name>改良工坊</name>
-        <desc>更先进的工坊，
-用于制作更先进的工具。</desc>
+        <desc>更先进的工坊， 用于制作更先进的工具。</desc>
         <desc2></desc2>
 </card>
     <card id="water_pumps_plans">
@@ -467,7 +450,7 @@ _ 工人卡槽位提升至最大。</desc>
 
     <construction id="water_source">
         <name>水源</name>
-        <desc>城镇最基本的水源——河边的一个码头，人们在这里取水桶供后续分配。您仍需雇佣运水工才能发挥作用……</desc>
+        <desc>城镇最基本的水源—— 河边的一个码头， 人们在这里取水桶 供后续分配。 您仍需雇佣运水工 才能发挥作用……</desc>
         <complete>码头已建成。现在您需要雇佣几名运水工——他们的卡片已加入您的牌组。</complete>
 </construction>
     <construction id="upgraded_water_source">
