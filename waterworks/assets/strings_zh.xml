@@ -914,11 +914,14 @@
     <gui id="options_language">
         <string>语言</string>
     </gui>
+    <gui id="options_language_zh">
+        <string>简体中文</string>
+    </gui>
     <gui id="options_language_pl">
         <string>Polski</string>
     </gui>
     <gui id="options_language_en">
-        <string></string>
+        <string>English</string>
     </gui>
     <gui id="options_tutorials">
         <string>教程</string>
