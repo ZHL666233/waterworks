@@ -164,8 +164,7 @@
 使用后从游戏中移除.</desc>
         <desc2>"你还没见过这样的东西."</desc2>
     </card>
-    
-    
+
     <!-- DOCUMENTS -->
         <!-- REGULAR -->
     <card id="permit">
@@ -231,11 +230,7 @@
         <desc2>"继续努力!"</desc2>
     </card>
 
-
-
     <!-- construction cards -->
-
-
 
     <card id="water_source">
         <name>水源</name>
@@ -443,23 +438,6 @@
         <desc2> </desc2>
     </card>
 
-   
-   
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     <construction id="water_source">
         <name>水源</name>
         <desc>镇上最基本的水源, 河边的一个码头, 人们将在那里填满水桶, 以便稍后分配. 你仍然需要雇用送水工来发挥作用...</desc>
@@ -507,7 +485,7 @@
 这个建筑将会为城镇带来更多工人.</desc>
         <complete>住宿扩建已经完毕. 你可以储存最多 8 张 _ 工人卡牌.
 这个建筑也带来了新的工匠, 抄写员, 工头和建筑工人的到来 - 他们的卡牌已添加到卡组.
-灵动游戏 MHHF.com</complete>
+</complete>
     </construction>
     <construction id="quarters3">
         <name>住宿 III</name>
@@ -551,7 +529,7 @@
         <name>马厩</name>
         <desc>建造马厩可以让你使用运水车. 那些马车能运送大量的水.</desc>
         <complete>马厩已经完工了 - 你现在可以使用运水车了. 他们的数量非常有限, 而且价格昂贵, 但多亏了他们, 你将能够为那些最需要的人送水.
-		灵动游戏 MHHF.com</complete>
+		</complete>
     </construction>
 
     <construction id="stable2">
@@ -579,7 +557,7 @@
         <name>赫尔曼沟渠</name>
         <desc>"赫尔曼沟渠" 是一条长近3公里的人工水道, 它可以让你从遥远的水源供应更多的水. 这项昂贵但必要的投资必将对城市的发展和扩张产生重大影响.</desc>
         <complete>在1386年, 格鲁琼兹的居民得到条顿教团当局的许可, 修建一条与附近沃冈镇自然溪流相连的河道, 并将水引入城市. 挖掘的河道长近3公里, 大大改善了城市居民的状况. 这是格鲁琼兹第一次有如此规模和意义的水利投资.
-		灵动游戏 MHHF.com</complete>
+		</complete>
     </construction>
 
     <construction id="wells">
@@ -711,13 +689,11 @@
         <complete>在16世纪上半叶, 欧洲的水利工程开始使用吸力泵和压力泵, 即所谓的活塞泵, 而不是水桶. 它们是由水轮通过曲轴驱动的, 曲轴将水轮的旋转运动转化为气缸中的活塞所产生的往复式运动. 这种水泵既能从井里吸水, 又能把水抽到一定的高度. 泵出的水量完全取决于泵的设计和供能. 这个设备被允许更多的水转移到更大的高度,因此比桶轮更有效. 关于格鲁琼兹水利工程水泵的最早信息来自17世纪中期, 但这种设备可能在那之前就已经存在了.</complete>
     </construction>
 
-
     <construction id="water_pumps2_plans">
         <name>改进抽水机</name>        
         <desc>每一种设备都可以改进并提高效率. 你的水泵也是一样.</desc>
         <complete>现在你的卡组里有了改进抽水机.</complete>
     </construction>
-
 
     <construction id="sewers_plans">
         <name>污水计划</name>
@@ -725,30 +701,17 @@
         <complete>污水管网工程的准备工作始于1899年兴建现代供水系统. 1905-1907年, 根据编制的技术文件, 建造了总长56公里的城市污水系统以及污水处理厂.</complete>
     </construction>
 
-
-
     <construction id="metal_pipes_plans">
         <name>钻井</name>        
         <desc>建造一口钻孔井是建立现代污水处理系统所需要的步骤之一.</desc>
         <complete>1899年6月1日, 位于哈尔街的现代化供水工厂开始建设, 历时6个月. 这个全新的供水系统有两个吸入泵, 由蒸汽机驱动, 从深井向处理厂供水 (过滤装置). 从那里, 高压泵将水推到供水网络, 以及膨胀罐和新的水塔.</complete>
     </construction>
 
-
     <construction id="training_course">
         <name>训练有素的工程师</name>
         <desc>培养一个工程师团队是创建一个现代化的污水处理系统的步骤之一.</desc>
         <complete>格鲁琼兹自来水厂的建设是在19世纪末由德国波鸿的工程师海因里希 舍芬委托建造的, 而污水系统和污水处理厂是由比德戈斯茨的风之子和朗格洛特公司在1905-1907年建造的.</complete>
     </construction>
-
-
-
-
-
-
-
-
-
-
 
     <construction id="war">
         <name>战争</name>
@@ -759,8 +722,6 @@
 这样你就赢得了高级公民的信任.</complete>
     </construction>
 
-
-
     <construction id="wrong_shipment">
         <name>误置货物</name>
         <desc>城堡里的人联系过你了 - 很明显, 在运送过程中出现了混乱, 因为城堡的仓库里丢失了一些物品. 你可能会问, 什么东西? 只要这些数字在他们的登记簿上看起来是正确的, 就没有关系. 寄给他们任何东西可能比试图找到一个解释更好.
@@ -768,7 +729,6 @@
         <complete>搞定了. 无论缺失的是什么, 都已经被替换了, 现在他们登记的数字都已注销.
 负责装运的人感谢你, 并承诺对你高度赞扬!</complete>
     </construction>
-
 
     <construction id="papers_please">
         <name>请出示文件!</name>
@@ -784,7 +744,6 @@
         <complete>那是一个多么盛大的婚礼啊! 这对夫妇收到了你的礼物并表示感谢.</complete>
     </construction>
 
-
     <construction id="castle">
         <name>城堡扩建</name>
         <desc>我们的统治者决定格鲁琼兹的城堡需要修缮. 你必须为他的恩典提供所需的建筑材料.
@@ -797,7 +756,6 @@
         <desc>镇上的官员想知道你是如何处理预算的. 派两个抄写员去处理文书工作并准备一份完整的报告, 否则你的声誉可能会受损.</desc>
         <complete>一切似乎都有条不紊. 这份报告涵盖了全部的预算支出, 毫无疑问你做得很好.</complete>
     </construction>
-
 
     <construction id="taxes">
         <name>税收</name>
@@ -815,15 +773,12 @@
         <complete>圣本笃会的修女们非常感谢你的好意, 他们也祝福你, 呃, 好吧.</complete>
     </construction>
 
-
-
     <construction id="summer">
         <name>除草</name>
         <desc>这没什么好笑的. 河道里长满了植物, 你得派人去清理.
 如果你不及时处理, 代价将是巨大的.</desc>
         <complete>干得好! 河道清理干净了, 水现在可以自由流动了.</complete>
     </construction>
-
 
     <construction id="winter">
         <name>冬天来了</name>
@@ -832,14 +787,12 @@
         <complete>干得好! 尽管条件恶劣, 水现在可以自由地通过管道.</complete>
     </construction>
 
-
     <construction id="medium_gift">
         <name>银或铅</name>
         <desc>附近一家工厂的老板巴格涅夫斯基先生宣布, 特伦卡运河穿过他的土地. 他开始建造堤坝, 摧毁堤道.
 我们需要和他达成协议. 也许送他一件礼物作为表示善意的表示可以开启一段良好的对话?</desc>
         <complete>巴格涅夫斯基先生不会再给我们制造麻烦了. 你不需要知道其他的东西.</complete>
     </construction>
-
 
     <construction id="medium_donation">
         <name>澡堂</name>
@@ -862,40 +815,6 @@
 抄写员用一些文件应该能够处理这个问题.</desc>
         <complete>人们可能不太高兴, 但也许新的收费对每个人都有好处.</complete>
     </construction>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
     <gui id="diff_header">
         <string>选择难度:</string>
@@ -999,7 +918,7 @@
         <string>Polski</string>
     </gui>
     <gui id="options_language_en">
-        <string>汉化版</string>
+        <string></string>
     </gui>
     <gui id="options_tutorials">
         <string>教程</string>
@@ -1032,7 +951,6 @@
         <string>关闭</string>
     </gui>
 
-    
     <gui id="main_new_game">
         <string>新的游戏</string>
     </gui>
@@ -1048,8 +966,7 @@
     <gui id="main_credits">
         <string>制作组</string>
     </gui>
-    
-    
+
     <gui id="game_over">
         <string>游戏结束
 
@@ -1061,8 +978,7 @@
 务已经被别人取代了...
 </string>
     </gui>
-    
-    
+
     <gui id="victory">
         <string>成功!
 
@@ -1078,7 +994,6 @@
 
 你是一个真正值得纪念的英雄!
 
-灵动游戏 MHHF.com
 </string>
         <string2>花费回合:</string2>
     </gui>
@@ -1088,7 +1003,6 @@
 这个建筑将会提高
 人口增加 ` +1</string>
     </gui>
-
 
 <gui id ="achiev_hermans">
 <string>赫尔曼沟渠
@@ -1149,7 +1063,6 @@
 祝贺你!</string>
     </popup>
 
-
     <popup id="sell_6th">
         <header>你手牌满了!</header>
         <string>你手中已经有5张手牌, 你当前想进行退还操作, 如果你执意进行, 卡牌会进入弃牌堆.
@@ -1190,7 +1103,7 @@
         <header>你确定吗?</header>
         <string>您确定要取消建造吗?
 施工卡将被退还到弃牌堆. 在此建筑中使用的所有卡牌也将返回弃牌堆. 你将获得每张卡牌花费的一半. 建筑费用不予退还.
-灵动游戏 MHHF.com</string>
+</string>
     </popup>
     <popup id="consumable_card_blocked">
         <header>不能在这里用这张卡牌</header>        
@@ -1207,7 +1120,7 @@
         <header>请求失败!</header>
         <string>你没能及时完成请求.
 你现在必须承担后果...
-灵动游戏 MHHF.com</string>
+</string>
     </popup>
 
     <popup id="inf_help">
@@ -1218,7 +1131,7 @@
 由于你的工作非常重要, 镇里的官员同意再给你一次机会.
 你会得到 #50 - 但这是他们最后一次这样帮助你.
 如果你的 # 影响达到 -100, 你得另谋高就了...
-灵动游戏 MHHF.com</string>
+</string>
     </popup>
 
     <popup id="tutorial_disable">
@@ -1233,7 +1146,7 @@
     <popup id="tutorial_hello">
         <header>欢迎来到格鲁琼兹!</header>
         <string>1291年日耳曼骑士团在波兰北部的维斯瓦河上建立了格鲁琼兹城, 周围大部分都是湿地. 维斯瓦河堤的高位置意味着这座城市从开始就很难获得干净的水. 随着居民人数的增加, 水源短缺问题成为采用众多创新(欧洲范围内)解决方案的理由...
-		灵动游戏 MHHF.com</string>
+		</string>
     </popup>
 
     <popup id="tutorial_3">
@@ -1316,7 +1229,7 @@
         <string>现在你会获得(或失去) # 影响点数.
 # 影响力显示了你有多受欢迎, 以及人们如何评价你的管理技能.
 眼下, 你不会有任何收入或损失. 但这种情况不会永远持续下去, 所以要小心.
-灵动游戏 MHHF.com
+
 </string>
     </popup>
 
@@ -1339,12 +1252,6 @@ You can still play the game, however:
 It's highly recommended that you enable cookies before playing.</string>
     </popup>
 
-
-
-
-
-
-
     <tutorial id="0">
         <string>首先,让我们建造一个基本的水源. 把水源建筑卡牌放置到城镇地图上的任意位置来打出.</string>
     </tutorial>
@@ -1363,7 +1270,7 @@ It's highly recommended that you enable cookies before playing.</string>
 现在到处都是零, 因为你还没有送水.
 ` 表示需求.
 人们可以容忍 ` 和 $ 的微小差异, 但如果你忽视了他们日益增长的需求, 就会导致麻烦.
-灵动游戏 MHHF.com</string>
+</string>
     </tutorial>
     <tutorial id="6">        
         <string>$  表示每个街区的供水情况.
@@ -1384,7 +1291,7 @@ It's highly recommended that you enable cookies before playing.</string>
 你可以随时把他转移到其他街区.
 
 现在来试试吧.
-灵动游戏 MHHF.com</string>
+</string>
     </tutorial>
     <tutorial id="18">
         <string>你已经建好了供水系统. 这标志着管道供水系统的开始运作. 如果你想增加水的供应, 你就得在大街上铺设水管和集水坑. 单击管道按钮以显示管道/污水池视图.</string>
@@ -1396,9 +1303,6 @@ It's highly recommended that you enable cookies before playing.</string>
 $ 1 $ 2 $ 3 $ 4 - 如上所述, 这是每个区域的当前效率.
 再次单击管道按钮以隐藏管道/污水池视图.</string>
     </tutorial>
-
-
-
 
     <tooltip id="constructions_list">
         <string>已完成建筑:</string>
@@ -1485,7 +1389,7 @@ $ 1 $ 2 $ 3 $ 4 - 如上所述, 这是每个区域的当前效率.
         <string>打开游戏音乐</string>
     </tooltip>
     <tooltip id="language_en">
-        <string>汉化版</string>
+        <string></string>
     </tooltip>
     <tooltip id="language_pl">
         <string>Polski</string>
@@ -1579,7 +1483,6 @@ $ 1 $ 2 $ 3 $ 4 - 如上所述, 这是每个区域的当前效率.
         <string>难度等级:</string>
     </tooltip>
 
-
     <tooltip id="sell_what">
         <string>卖出:</string>
     </tooltip>
@@ -1638,12 +1541,6 @@ $ 1 $ 2 $ 3 $ 4 - 如上所述, 这是每个区域的当前效率.
         <string>警告! 没有供水 - 检查管道?</string>
     </tooltip>
 
-
-
-
-
-
-
 <credits id="credits_1">
 <string>作者
 Mateusz "scriptwelder" Sokalszczuk</string>
@@ -1692,15 +1589,7 @@ Anton Svensson</string>
 <privacy_policy id="splash">
 <string>
 
-
-
-灵动游戏汉化
-
-
-
-
 中文
-
 
 Waterworks!可以收集分析和营销数据.
 在开始游戏之前,您必须接受隐私政策.
