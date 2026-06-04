@@ -4,3 +4,4 @@ Thumbs.db
 node_modules/
 .reasonix/
 灵动汉化旧版/
+.gitignore
