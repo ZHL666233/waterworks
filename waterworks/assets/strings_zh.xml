@@ -1,0 +1,1623 @@
+<?xml version='1.0' encoding='utf-8'?>
+<strings>
+
+    
+            
+    <card id="water_carrier">
+        <name>运水工</name>
+        <desc>巡逻街区+2$
+相邻街区+1$</desc>
+        <desc2>"这份工作需要一副好身板。"</desc2>
+</card>
+    <card id="water_cart">
+        <name>运水车</name>
+        <desc>巡逻街区+3$
+相邻街区+2$</desc>
+    <desc2>"水，新鲜的水！"</desc2>
+</card>
+    <card id="water_wagon">
+        <name>运水马车</name>
+        <desc>巡逻街区+8$
+相邻街区+6$</desc>
+    <desc2>"驾！"</desc2>
+</card>
+
+    <card id="foreman">
+        <name>工头</name>
+        <desc>监督工人。
+可用于}建筑}工程。</desc>
+        <desc2>"总得有人盯着那些偷懒的家伙。"</desc2>
+</card>
+    <card id="worker">
+        <name>建筑工</name>
+        <desc>你的劳动力。
+可用于}建筑}工程。</desc>
+        <desc2>"还有活？"</desc2>
+</card>
+    <card id="scribe">
+        <name>书记员</name>
+        <desc>他能读会写。
+可用于}建筑}工程。</desc>
+        <desc2>"请在这里签字？"</desc2>
+</card>
+    <card id="craftsman">
+        <name>工匠</name>
+        <desc>他精通手艺。
+可用于}建筑}工程。</desc>
+        <desc2>"比看起来难多了。"</desc2>
+</card>
+         
+    <card id="trained_personnel">
+        <name>工程师</name>
+        <desc>一组受过培训的给排水系统操作人员。
+可用于}建筑}工程。
+使用后从游戏中移除。</desc>
+        <desc2>"未来是我们的！"</desc2>
+</card>
+
+    
+        
+    <card id="pipe">
+        <name>水管</name>
+        <desc>连接水管将水输送到城镇各处。</desc>
+        <desc2>"拿一根树干，从头到尾钻个洞就行了！"</desc2>
+</card>
+    <card id="well">
+        <name>水井</name>
+        <desc>相邻街区+2$</desc>
+        <desc2>"再说一次，别往里面扔硬币。"</desc2>
+</card>
+    <card id="sump">
+        <name>蓄水池</name>
+        <desc>需要水管连接。
+为相邻街区提供$ x。x*取决于距离和水厂等级。</desc>
+        <desc2>"自动补水桶！"</desc2>
+</card>
+
+    <card id="building_materials">
+        <name>建筑材料</name>
+        <desc>可用于}建筑}工程。</desc>
+        <desc2>"这个正好。"</desc2>
+</card>
+     
+    <card id="orders_sigil">
+        <name>骑士团徽章</name>
+        <desc>条顿骑士团的徽章。
+可用于}建筑}工程。
+使用后从游戏中移除。</desc>
+        <desc2>"以主之名！"</desc2>
+</card>
+    <card id="nobles_sigil">
+        <name>城镇徽章</name>
+        <desc>格鲁琼兹镇的徽章。
+可用于}建筑}工程。
+使用后从游戏中移除。</desc>
+        <desc2>"这枚徽章能打开许多门……"</desc2>
+</card>
+    <card id="royal_sigil">
+        <name>皇家徽章</name>
+        <desc>皇家徽章。
+可用于}建筑}工程。
+使用后从游戏中移除。</desc>
+        <desc2>"殿下亲自下令！"</desc2>
+</card>
+    <card id="bucket_wheel">
+        <name>斗轮</name>
+        <desc>一个带水桶的轮子。
+可用于}建筑}工程。
+使用后从游戏中移除。</desc>
+        <desc2>"上去了就得下来！"</desc2>
+</card>
+    <card id="water_wheel">
+        <name>水车</name>
+        <desc>驱动机械。
+可用于}建筑}工程。
+使用后从游戏中移除。</desc>
+        <desc2>"古人想出了这个主意。"</desc2>
+</card>
+    <card id="digging_supplies">
+        <name>挖掘工具</name>
+        <desc>一套挖掘工具。
+可用于}建筑}工程。
+使用后从游戏中移除。</desc>
+        <desc2>"我觉得不错。"</desc2>
+</card>
+    <card id="water_pumps">
+        <name>水泵</name>
+        <desc>一套活塞吸水水泵。
+可用于}建筑}工程。
+使用后从游戏中移除。</desc>
+        <desc2>"真正的技术奇迹！"</desc2>
+</card>
+    <card id="water_pumps2">
+        <name>改良水泵</name>
+        <desc>一套改良的活塞吸水水泵。
+可用于}建筑}工程。
+使用后从游戏中移除。</desc>
+        <desc2>"现代化设计意味着更高的效率！"</desc2>
+</card>
+    <card id="overshot_wheel">
+        <name>上射水车</name>
+        <desc>效率大大提高。
+可用于}建筑}工程。
+使用后从游戏中移除。</desc>
+        <desc2>"要我说，这才是真正的命运之轮。"</desc2>
+</card>
+    <card id="chain_lift">
+        <name>链式提升机</name>
+        <desc>由链条驱动的水桶提升装置。
+可用于}建筑}工程。
+使用后从游戏中移除。</desc>
+        <desc2>"比水车升得更高。"</desc2>
+</card>
+    <card id="water_tower">
+        <name>水塔</name>
+        <desc>提供水压的高层建筑。
+可用于}建筑}工程。
+使用后从游戏中移除。</desc>
+        <desc2>"不是用来储水，而是用来输水。"</desc2>
+</card>
+    <card id="metal_pipes">
+        <name>钻井</name>
+        <desc>先进的钻井。
+可用于}建筑}工程。
+使用后从游戏中移除。</desc>
+        <desc2>"你}还}没见过}这样的东西。"</desc2>
+</card>
+
+
+    
+        
+    <card id="permit">
+        <name>许可证</name>
+        <desc>建筑许可证。
+可用于}建筑}工程。</desc>
+        <desc2>"特此授予您建造此建筑的许可。"</desc2>
+</card>
+    <card id="small_gift">
+        <name>小礼物</name>
+        <desc>一枚闪亮的金戒指。你可以把这份礼物送给城镇统治者以获得#10。</desc>
+        <desc2>"闪闪发光！"</desc2>
+</card>
+    <card id="medium_gift">
+        <name>普通礼物</name>
+        <desc>一条漂亮的项链。你可以把这份礼物送给城镇统治者以获得#20。</desc>
+        <desc2>"最新时尚潮流！"</desc2>
+</card>
+    <card id="big_gift">
+        <name>厚礼</name>
+        <desc>这条手镯太闪亮了！你可以把这份礼物送给城镇统治者以获得#40。</desc>
+        <desc2>"闪光的未必都是金子，还有宝石。"</desc2>
+</card>
+    <card id="small_donation">
+        <name>小额捐赠</name>
+        <desc>打出此文件可获得@10。</desc>
+        <desc2>"感谢您的捐赠！"</desc2>
+</card>
+    <card id="medium_donation">
+        <name>普通捐赠</name>
+        <desc>打出此文件可获得@20。</desc>
+        <desc2>"这将惠及我们所有人！"</desc2>
+</card>
+    <card id="big_donation">
+        <name>慷慨捐赠</name>
+        <desc>打出此文件可获得@40。</desc>
+        <desc2>"水必须流动！"</desc2>
+</card>
+        
+    <card id="maps">
+        <name>地图</name>
+        <desc>城镇周边}地区的}详细}地图。
+可用于}建筑}工程。
+使用后从游戏中移除。</desc>
+        <desc2>"有地图总是好的。"</desc2>
+</card>
+    <card id="irrigation_plans">
+        <name>灌溉计划</name>
+        <desc>详细的灌溉计划。
+可用于}建筑}工程。
+使用后从游戏中移除。</desc>
+        <desc2>"水要从这边走！"</desc2>
+</card>
+    <card id="sewers_layout">
+        <name>下水道布局图</name>
+        <desc>城镇地下下水道布局图。</desc>
+        <desc2>"鳄鱼？你疯了吗？"</desc2>
+</card>
+    <card id="funding_increase">
+        <name>增加拨款</name>
+        <desc>每回合+1 @。
+使用后从游戏中移除。</desc>
+        <desc2>"继续保持好工作！"</desc2>
+</card>
+
+
+
+    
+
+
+
+    <card id="water_source">
+        <name>水源</name>
+        <desc>最基本的水源，河边的码头。</desc>
+        <desc2></desc2>
+</card>
+    <card id="upgraded_water_source">
+        <name>升级水源</name>
+        <desc>随着城镇发展，一个码头已不够用。</desc>
+        <desc2></desc2>
+</card>
+    <card id="quarters">
+        <name>营房</name>
+        <desc>可存储_ 工人卡供日后使用。</desc>
+        <desc2></desc2>
+</card>
+    <card id="archive">
+        <name>档案室</name>
+        <desc>可存储\ 文件卡供日后使用。</desc>
+        <desc2></desc2>
+</card>
+    <card id="warehouse">
+        <name>仓库</name>
+        <desc>可存储~ 资源卡供日后使用。</desc>
+        <desc2></desc2>
+</card>
+    <card id="quarters2">
+        <name>营房II</name>
+        <desc>增加营房中_ 工人卡槽位数量。</desc>
+        <desc2></desc2>
+</card>
+    <card id="archive2">
+        <name>档案室II</name>
+        <desc>增加档案室中\ 文件卡槽位数量。</desc>
+        <desc2></desc2>
+</card>
+    <card id="warehouse2">
+        <name>仓库II</name>
+        <desc>增加仓库中~ 资源卡槽位数量。</desc>
+        <desc2></desc2>
+</card>
+    <card id="quarters3">
+        <name>营房III</name>
+        <desc>将营房中_ 工人卡槽位提升至最大。</desc>
+        <desc2></desc2>
+</card>
+    <card id="archive3">
+        <name>档案室III</name>
+        <desc>将档案室中\ 文件卡槽位提升至最大。</desc>
+        <desc2></desc2>
+</card>
+    <card id="warehouse3">
+        <name>仓库III</name>
+        <desc>将仓库中~ 资源卡槽位提升至最大。</desc>
+        <desc2></desc2>
+</card>
+    <card id="office">
+        <name>商人行会</name>
+        <desc>金钱可以买到声望……反之亦然。</desc>
+        <desc2></desc2>
+</card>
+    <card id="stable">
+        <name>马厩</name>
+        <desc>马厩让你可以使用运水马车。</desc>
+        <desc2></desc2>
+</card>
+    <card id="stable2">
+        <name>马厩II</name>
+        <desc>马厩让你可以多买一辆运水马车。</desc>
+        <desc2></desc2>
+</card>
+    <card id="carts">
+        <name>运水车</name>
+        <desc>这项发明将把所有运水工升级为运水车。</desc>
+        <desc2></desc2>
+</card>
+    <card id="hermans_ditch">
+        <name>赫尔曼水渠</name>
+        <desc>迈向}新}时代。</desc>
+        <desc2></desc2>
+</card>
+    <card id="wells">
+        <name>水井</name>
+        <desc>开发在城镇中挖掘普通水井的方法。</desc>
+        <desc2></desc2>
+</card>
+    <card id="cartography">
+        <name>制图学</name>
+        <desc>勘察周边地区并绘制地图。</desc>
+        <desc2></desc2>
+</card>
+    <card id="water_crafts_guild">
+        <name>工匠行会</name>
+        <desc>帮助开发新技术的专家。</desc>
+        <desc2></desc2>
+</card>
+    <card id="bucket_wheel_plans">
+        <name>斗轮</name>
+        <desc>水厂的一部分。</desc>
+        <desc2></desc2>
+</card>
+    <card id="water_wheel_plans">
+        <name>水车</name>
+        <desc>水厂的一部分。</desc>
+        <desc2></desc2>
+</card>
+    <card id="waterworks">
+        <name>水厂</name>
+        <desc>管道供水系统。</desc>
+        <desc2></desc2>
+</card>
+    <card id="waterworks2">
+        <name>水厂II</name>
+        <desc>提高效率。</desc>
+        <desc2></desc2>
+</card>
+    <card id="waterworks3">
+        <name>水厂III</name>
+        <desc>升级水厂。</desc>
+        <desc2></desc2>
+</card>
+    <card id="waterworks4">
+        <name>水厂IV</name>
+        <desc>安装}水泵。</desc>
+        <desc2></desc2>
+</card>
+    <card id="waterworks5">
+        <name>水厂V</name>
+        <desc>更高效率！</desc>
+        <desc2></desc2>
+</card>
+    <card id="workshop">
+        <name>工坊</name>
+        <desc>一个水力驱动的制作工具工坊。</desc>
+        <desc2></desc2>
+</card>
+    <card id="workshop2">
+        <name>改良工坊</name>
+        <desc>更先进的工坊，用于制作更先进的工具。</desc>
+        <desc2></desc2>
+</card>
+    <card id="water_pumps_plans">
+        <name>水泵</name>
+        <desc>精密的水泵设计。</desc>
+        <desc2></desc2>
+</card>
+    <card id="water_pumps2_plans">
+        <name>改良水泵</name>
+        <desc>更高效的水泵设计。</desc>
+        <desc2></desc2>
+</card>
+    <card id="metal_pipes_plans">
+        <name>钻井</name>
+        <desc>未来科技！</desc>
+        <desc2></desc2>
+</card>
+    <card id="training_course">
+        <name>培训课程</name>
+        <desc>允许培训工程师。</desc>
+        <desc2></desc2>
+</card>
+    <card id="sewers_plans">
+        <name>下水道布局计划</name>
+        <desc>建设下水道所必需。</desc>
+        <desc2></desc2>
+</card>
+    <card id="overshot_wheel_plans">
+        <name>上射水车</name>
+        <desc>提高水车效率的想法。</desc>
+        <desc2></desc2>
+</card>
+    <card id="chain_lift_plans">
+        <name>链式提升机</name>
+        <desc>用链式提升机替换斗轮的计划。</desc>
+        <desc2></desc2>
+</card>
+    <card id="trynka_channel">
+        <name>特林卡运河</name>
+        <desc>迈向}新}时代。</desc>
+        <desc2></desc2>
+</card>
+    <card id="adv_sumps">
+        <name>高级蓄水池</name>
+        <desc>升级版蓄水池设计。</desc>
+        <desc2></desc2>
+</card>
+    <card id="adv_pipes">
+        <name>地下隧道</name>
+        <desc>水管的改进。</desc>
+        <desc2></desc2>
+</card>
+    <card id="water_tower_plans">
+        <name>水塔</name>
+        <desc>将提供所需的水压。</desc>
+        <desc2></desc2>
+</card>
+    <card id="heated_water_tower">
+        <name>加热水塔</name>
+        <desc>冬季加热将提高效率。</desc>
+        <desc2></desc2>
+</card>
+    <card id="wass">
+        <name>给排水}系统</name>
+        <desc></desc>
+        <desc2></desc2>
+</card>
+
+
+
+
+
+    <construction id="water_source">
+        <name>水源</name>
+        <desc>城镇最基本的水源——河边的一个码头，人们在这里取水桶供后续分配。您仍需雇佣运水工才能发挥作用……</desc>
+        <complete>码头已建成。现在您需要雇佣几名运水工——他们的卡片已加入您的牌组。</complete>
+</construction>
+    <construction id="upgraded_water_source">
+        <name>升级水源</name>
+        <desc>用水需求日益增长，河上的一个码头已远远不够。此次升级将使您能够提取更多水源并雇佣更多运水工。</desc>
+        <complete>您已建成一座额外的码头。得益于此，您可以补充更多水桶并为更多运水工供水。这暂时应能满足城市需求，但并非长久之策。</complete>
+</construction>
+    <construction id="warehouse">
+        <name>仓库</name>
+        <desc>仓库可让您像营房一样存储~ 资源卡（如建筑材料或水管）。
+您还将获得用于建造建筑物的建筑材料，以及升级水源的建设计划。</desc>
+        <complete>仓库已就绪。如果您不想丢弃，可同时存储最多4 张~ 资源卡。
+在实际打出卡牌之前无需支付费用，您可以随时丢弃，或将其移回手牌（如果手牌未满）。
+
+提示：右键点击~ 资源卡可快速在仓库和手牌之间移动。</complete>
+</construction>
+    <construction id="warehouse2">
+        <name>仓库II</name>
+        <desc>扩建仓库将使~ 资源卡槽位增加4 个。同时解锁新技术（见下方卡片列表）。</desc>
+        <complete>仓库正在扩建！现在您可存储最多8 张~ 资源卡。
+此外，新的有趣卡片已加入您的牌组。水车、斗轮——它们必定是某些更大建筑的组件。挖掘工具——当您找到它们时值得留待后用。毕竟这就是仓库的用途！</complete>
+</construction>
+    <construction id="warehouse3">
+        <name>仓库III</name>
+        <desc>仓库的最终扩建将再增加4 个~ 资源卡槽位。同时解锁新技术（见下方卡片列表）。</desc>
+        <complete>仓库已达最大容量！现在您可在此存储最多12 张~ 资源卡。
+此外，您的牌组中加入了新卡片。水塔和水泵计划可能预示着水厂运作的全新方式。</complete>
+</construction>
+    <construction id="quarters">
+        <name>营房</name>
+        <desc>此建筑可让您存储手牌中的_ 工人卡供日后使用。如果您暂时不需要某张卡，或买不起但又不想丢弃，可以将其存放在这里。
+在实际打出之前无需支付存储卡的费用。
+建造营房还将为城镇带来新工人，并允许您建造新建筑。</desc>
+        <complete>营房已就绪。如果您无法打出但又不想丢弃，可同时存储最多4 张_ 工人卡。
+在实际打出卡牌之前无需支付费用，您可以随时丢弃，或将其移回手牌（如果手牌未满）。
+
+提示：右键点击_ 工人卡可快速在营房和手牌之间移动。</complete>
+</construction>
+    <construction id="quarters2">
+        <name>营房II</name>
+        <desc>扩建营房将使_ 工人卡槽位增加4 个。
+此建筑将吸引更多工人来到城镇。</desc>
+        <complete>营房扩建已完工。现在您可存储最多8 张_ 工人卡。
+此建筑还吸引了新工匠、书记员、工头和建筑工到来——他们的卡片已加入牌组。</complete>
+</construction>
+    <construction id="quarters3">
+        <name>营房III</name>
+        <desc>营房的最终扩建将再增加4 个_ 工人卡槽位。
+此建筑将吸引更多工人来到城镇。</desc>
+        <complete>营房最终扩建已完工。现在您可存储最多12 张_ 工人卡。
+此建筑还吸引了新工匠、工头和建筑工到来——他们的卡片已加入牌组。还有一本有趣的新书，看起来像培训课程。它是怎么到这里的？把它放到档案室里，好吗？</complete>
+</construction>
+    <construction id="archive">
+        <name>档案室</name>
+        <desc>档案室可让您像营房一样存储\ 文件卡（如建设计划或建筑许可证）。
+您还将获得商人行会的使用权。</desc>
+        <complete>档案室已就绪。如果您无法打出但又不想丢弃，可同时存储最多4 张\ 文件卡。
+在实际打出卡牌之前无需支付费用，您可以随时丢弃，或将其移回手牌（如果手牌未满）。
+
+提示：右键点击\ 文件卡可快速在档案室和手牌之间移动。</complete>
+</construction>
+    <construction id="archive2">
+        <name>档案室II</name>
+        <desc>扩建档案室将使\ 文件卡槽位增加4 个。
+此建筑为您提供新的捐赠和礼物。
+您还将获得水厂结构建设计划和灌溉计划。</desc>
+        <complete>档案室扩建已完工。现在您可存储最多8 张\ 文件卡。
+除了新的捐赠和礼物外，此建筑还为您提供了水厂结构建设计划和灌溉计划。</complete>
+</construction>
+    <construction id="archive3">
+        <name>档案室III</name>
+        <desc>档案室的最终扩建将再增加4 个\ 文件卡槽位。
+此建筑为您提供新的捐赠和礼物。</desc>
+        <complete>档案室最终扩建已完工。现在您可存储最多12 张\ 文件卡。
+您还获得了新的捐赠和礼物。此外，您发现了一份下水道系统的早期草图……不要弄丢它，将来可能会有用。</complete>
+</construction>
+    <construction id="office">
+        <name>商人行会</name>
+        <desc>金钱可以买到声望……反之亦然。您的任务常常需要赢得民心，而我们商人行会的朋友们在这方面经验丰富。他们还知道如何获取额外资金，这项技能对您来说非常有用。</desc>
+        <complete>您现在可以获取新卡片。捐赠将以# 影响力换取@ 金币。礼物可让您获得# 影响力，但需要先用@ 金币购买。
+商人还提供了他们从远方带来的计划，这将使您能够对城镇周边地区进行制图测量。</complete>
+</construction>
+
+    <construction id="stable">
+        <name>马厩</name>
+        <desc>建造马厩将让您可以使用运水马车。这些马拉车辆能够运送大量水。
+
+运水马车
+巡逻街区+8$
+相邻街区+6$</desc>
+        <complete>马厩已完工——您现在可以使用运水马车了。它们数量有限且价格昂贵，但得益于此，您将能够把水送到最需要的地方。</complete>
+</construction>
+
+    <construction id="stable2">
+        <name>马厩II</name>
+        <desc>建造更大的马厩将使您能够多获得一辆运水马车。</desc>
+        <complete>马厩已扩建。您现在可以多使用一辆运水马车。</complete>
+</construction>
+
+    <construction id="carts">
+        <name>运水车</name>
+        <desc>开发并建造运水车将极大改善运水系统。
+所有运水工卡片（游戏中和未加入游戏的）将被替换为运水车卡片。
+
+运水工&gt; 运水车
+巡逻街区+2$  &gt; +3$
+相邻街区+1$  &gt; +2$</desc>
+        <complete>运水车已完成！每位运水工都领到了一辆。我们也为您未来打算雇佣的人准备了运水车。
+所有运水工卡片（游戏中和未加入游戏的）已被替换为运水车卡片。</complete>
+</construction>
+
+    <construction id="water_crafts_guild">
+        <name>工匠行会</name>
+        <desc>建造工匠行会将为您带来工匠。
+借助他们的工作，您将能够开发新建筑，如水井和赫尔曼水渠——一项巨大的投资，将为城镇发展开启新时代的大门。</desc>
+        <complete>工匠行会吸引了工匠来到城镇。他们的技能将让您设计挖井方案，随后启动格鲁琼兹迄今为止规模最大的水利工程。</complete>
+</construction>
+
+    <construction id="hermans_ditch">
+        <name>赫尔曼水渠</name>
+        <desc>"赫尔曼水渠"是一条长约3 公里的人工渠道，将使您能够从远处水源获取更多水量。这项昂贵但必要的投资必将对城市的发展和扩张产生重大影响。</desc>
+        <complete>1386 年，格鲁琼兹居民获得条顿骑士团当局的许可，修建一条连接附近温格罗沃镇自然溪流并将水引入城市的渠道。挖掘的水渠长约3 公里，极大改善了城市居民的用水状况。这是格鲁琼兹首次具有如此规模和重要性的水利投资。现今名称"赫尔曼水渠"可能源自19 世纪水渠重建之后。</complete>
+</construction>
+
+    <construction id="wells">
+        <name>水井</name>
+        <desc>带有木质或砖结构的井，深达数米至数十米。屋顶和底部过滤器防止水污染，安装的绞盘将极大便利水桶取水。
+
+水井
+相邻街区+2$</desc>
+        <complete>直接从水渠取水然后运往城市无疑是一种低效且不切实际的方案，而在围城或霜冻时，城镇所有的饮用水供应都将被切断。出于这些原因，格鲁琼兹可能在中世纪就已经有一些水井，可以建在城墙内。另一个优点是这些井中的水不会结冰。不幸的是，目前的研究尚未确认关于水井的任何重要信息（仅存的一口井位于城堡内）。由于城市地势较高，挖掘传统水井必定是一项困难、耗时且昂贵的任务。</complete>
+</construction>
+
+    <construction id="cartography">
+        <name>制图学</name>
+        <desc>研究此项将为您提供城镇周边地区的详细地图。将来必定有用。</desc>
+        <complete>制图研究已完成。得益于此，现在您的牌组中有一张地图卡片。它必定会有用处。</complete>
+</construction>
+
+    <construction id="workshop">
+        <name>工坊</name>
+        <desc>一个配备工具和维修设备的房间必定有用。
+完成此建筑将使您获得更多水管和蓄水池，同时也允许您升级水厂。</desc>
+        <complete>新卡片已加入您的牌组：水管、蓄水池和新水车计划。</complete>
+</construction>
+
+    <construction id="workshop2">
+        <name>工坊II</name>
+        <desc>我们将在水厂建筑内、水泵旁设置一个小工坊。传动带和齿轮系统将把水车的动力传送给工坊中的设备。
+此建筑将使您能够制造更多水管和蓄水池，并开发新技术的计划。</desc>
+        <complete>利用水车为工坊设备提供动力被证明是非常高效的解决方案！您可以放置更多水管和蓄水池。这也将带来新技术的发展！
+趣闻：在运河上方直接架在支柱上的木制平台上，有一个可能用于洗浴的房间。</complete>
+</construction>
+
+    <construction id="waterworks">
+        <name>水厂</name>
+        <desc>水厂是一种将水提升到一定高度的装置，使水能够通过重力供应给城市的供水管网。水被提升到位于高层建筑顶部的配水罐，然后通过木制管道分配到市政供水井（即蓄水池）。蓄水池通常建在主要街道和城市广场。</desc>
+        <complete>1415 年，条顿骑士团大团长米歇尔·科赫迈斯特颁发了在格鲁琼兹建造第一座水厂的许可证。许可中，骑士团批准建造一座特殊建筑，内有一个配备水车的装置，从城边的水渠中取水，然后将其提升到足够的高度，以便通过管道输送到城市各处。如果格鲁琼兹的水厂确实建于15 世纪（这很有可能！——它在16 世纪初肯定已经存在），那么它将是条顿国家中最古老的此类装置，1466 年后则是波兰王国中最古老的之一。</complete>
+</construction>
+
+    <construction id="waterworks2">
+        <name>带上前水车的水厂</name>
+        <desc>升级水厂将需要很多东西，包括建造人工堤坝、堰、池塘，以及将水输送到水车上方的水槽。得益于此，水车效率将大幅提高，可输送更多水量。</desc>
+        <complete>升级后的水厂为水管增加了更大的水压，使水能够到达比以往更远的地方。得益于此，人们将能够从现有的蓄水池以及您未来将要建造的任何蓄水池中获取更多水。</complete>
+</construction>
+
+    <construction id="waterworks3">
+        <name>带链式提升机的水厂</name>
+        <desc>我们将用新建的链式提升机替换斗轮。由运河水流驱动的木制水车将带动装有水桶的链条，将水运送到建筑物顶部的配水罐。</desc>
+        <complete>水厂的又一次升级为水管增加了更大的水压，使水能够到达比以往更远的地方。得益于此，人们将能够从现有的蓄水池以及您未来将要建造的任何蓄水池中获取更多水。</complete>
+</construction>
+
+    <construction id="waterworks4">
+        <name>带水泵的水厂</name>
+        <desc>格鲁琼兹带水泵的水厂将由三个部分组成：
+- 一个长方形单层建筑，位于运河上方直接架在支柱上的木桥上。建筑下方流动的水将推动水车；
+- 一个位于运河水岸的建筑，其下方井中有由水车驱动的活塞泵；
+- 一个位于城市第二道城墙处的水塔，配有管道和配水罐。</desc>
+        <complete>带水泵的水厂完工极大提高了供水效率，整个城镇的用水变得更加便利。</complete>
+</construction>
+
+    <construction id="waterworks5">
+        <name>带改良水泵的水厂</name>
+        <desc>安装改良水泵将使水厂效率进一步提高。</desc>
+        <complete>随着水泵升级，当前形式的水厂已达到其效率顶峰。</complete>
+</construction>
+
+    <construction id="bucket_wheel_plans">
+        <name>斗轮</name>
+        <desc>一个装有木桶的轮子。此轮可由带齿轮的水车驱动。运动中的水桶从运河中取水并将其运送到建筑物顶部的配水罐。</desc>
+        <complete>您现已建成斗轮。然而，没有水车驱动它是无用的……</complete>
+</construction>
+
+    <construction id="water_wheel_plans">
+        <name>水车</name>
+        <desc>水车是水厂的主要驱动元件。下射式水车由直接从轮下流过水驱动。它可以通过齿轮与其他机构（如斗轮）连接。</desc>
+        <complete>您现在有了一个可以驱动其他东西的水车。唯一的问题是：驱动什么呢？</complete>
+</construction>
+
+    <construction id="overshot_wheel_plans">
+        <name>上射水车</name>
+        <desc>上射水车由从适当高度落到其上的水驱动，水填充位于其周边的槽口从而转动轮子。它的效率是我们目前使用的下射式水车的三倍。使用上射水车需要额外的工程工作：建造人工堤坝、堰、池塘，以及将水输送到水车上方的水槽。</desc>
+        <complete>上射水车已完成。现在您可以开始准备水厂的现代化改造。</complete>
+</construction>
+
+    <construction id="chain_lift_plans">
+        <name>链式提升机</name>
+        <desc>一种特殊、更高效且更耐用的机构，有两个较小的轮子（下方和上方），由连接水桶的链条连接。</desc>
+        <complete>您现在有了链式水桶——您可以为水厂系统的下一次现代化改造做准备了！</complete>
+</construction>
+
+    <construction id="trynka_channel">
+        <name>特林卡运河</name>
+        <desc>特林卡运河将长约8 公里，宽达10 米。其任务是从遥远的河流为城市提供大量水源。它不仅将帮助满足城市居民日益增长的需求，还将增加水厂和供水系统技术发展的可能性。</desc>
+        <complete>特林卡运河建于1552 年，获波兰国王西吉斯蒙德二世·奥古斯都的许可。其名称来自德语单词"trinken"（"饮用"），强调了其最重要的功能——为格鲁琼兹提供饮用水。运河总长达8 公里，宽度达10 米。特林卡运河起于克武德卡的奥西河，然后流向塔尔皮恩斯基湖，接着连接到城市附近的磨坊水渠，最终注入维斯瓦河。运河全线建有堰系统，可以对河段进行分段排干以便进行必要的水利维护工作。特林卡运河的建设使得向城市供应大量水成为可能，这些水还驱动了磨坊和水厂的水车。在当时，这是格鲁琼兹实施的最重要、规模最大的水利工程。</complete>
+</construction>
+
+    <construction id="adv_sumps">
+        <name>高级蓄水池</name>
+        <desc>旧的木制供水井（蓄水池）将被更坚固、更密封的砖砌井取代。
+得益于此，整个城市供水网络的效率将得到提高。</desc>
+        <complete>水厂供水井，称为蓄水池，通常看起来像一个没有盖子的桶，放在一个挖入地下的木箱中，周围填满沙子以稳固。桶和木箱之间的沙子还起到过滤作用，限制外部污物渗入井中。水管连接到桶上。从外部看，蓄水池类似于传统的木制水井。随着时间的推移，木"桶"被更密封、更耐用的砖墙取代。</complete>
+</construction>
+
+    <construction id="adv_pipes">
+        <name>供水隧道</name>
+        <desc>一条内设管道的砖砌供水隧道，将水分配到市政供水井（蓄水池）。隧道的尺寸允许人员进入内部进行维护和修理工作。
+得益于此，整个城市供水网络的效率将得到提高。</desc>
+        <complete>如今，在水塔位置的最底层，有一个部分掩埋、加固和拱形的城墙下洞穴。也许这就是地下水道隧道的起点，水通过它输送到城市各处？</complete>
+</construction>
+
+    <construction id="water_tower_plans">
+        <name>水塔</name>
+        <desc>一座高水塔将毗邻城市南侧城墙。其内部将有管道，水通过管道被泵送到塔顶的配水罐。从那里，水将通过管道重力分配到市政供水井（蓄水池）。水塔将为供水网络提供恒定且较高的水压，使水能够到达城市更远的区域。</desc>
+        <complete>很难说格鲁琼兹水塔具体建于何时。最早可能的时间必定是15 世纪末或16 世纪初，当时活塞吸水水泵的发明在欧洲普及，这使得将水输送到高层建筑顶部成为可能。这样，水厂（配备水泵的低层单层建筑）和水塔（顶部有配水罐的高层建筑）的功能被明确分开。第一个明确表明水塔存在的来源证据可追溯到1772 年。</complete>
+</construction>
+
+    <construction id="heated_water_tower">
+        <name>加热水塔</name>
+        <desc>对现有水塔进行改造，使其能够在不同高度燃火，防止管道在冬季冻结。
+得益于此，整个城市供水网络的效率将得到提高。</desc>
+        <complete>水塔内部的设计使得可以在不同高度燃火，以防止建筑内的管道和配水罐冻结。</complete>
+</construction>
+
+    <construction id="wass">
+        <name>给排水系统</name>
+        <desc>一种现代水利解决方案，将供水系统和污水处理系统整合为一体。这项巨大的投资需要雇佣合格的工程师，并建造带有蒸汽驱动水泵的深井、庞大的管道网络和污水处理厂。</desc>
+        <complete>19 世纪末，市政当局委托进行了一项研究，以确定格鲁琼兹抽取地下水的最佳位置，并确定储备的规模。研究结果在城市南部——靠近城市森林和今天的J.哈勒将军街——发现了丰富的饮用水源，这使得建设现代化的市政供水系统成为可能。该系统于1899 年12 月23 日启用，20 世纪初扩展至包括污水网络和污水处理厂。1905 年，退役的水厂被上下磨坊的主人以5000 马克从市政当局购回。</complete>
+</construction>
+
+    <construction id="water_pumps_plans">
+        <name>水泵</name>
+        <desc>两个吸水压力泵的机构，安装在运河旁挖掘的井中。水泵将由水车通过曲轴驱动，从井中吸水并将其泵送到水塔顶部的配水罐。这种装置比斗轮或链式水桶的效率高得多。</desc>
+        <complete>16 世纪上半叶，欧洲的水厂开始使用吸水压力泵（即活塞泵）替代水桶。它们由水车通过曲轴驱动，将水车的旋转运动转化为活塞在气缸中的往复运动。这种水泵既能从井中吸水又能将水输送到一定高度。泵送的水量仅取决于设计和提供给水泵的能量。这种装置能够将更多水输送到更高的高度，因此比斗轮效率高得多。关于格鲁琼兹水厂中水泵的最早信息来自17 世纪中期，但这样的装置可能在那之前就已经存在了。</complete>
+</construction>
+
+
+    <construction id="water_pumps2_plans">
+        <name>改良水泵</name>
+        <desc>每种设备都可以改进并提高效率。您的水泵也是如此。</desc>
+        <complete>现在您的牌组中有了改良水泵。</complete>
+</construction>
+
+
+    <construction id="sewers_plans">
+        <name>下水道计划</name>
+        <desc>制定下水道网络计划是创建现代给排水系统的必要步骤之一。</desc>
+        <complete>下水道网络项目的准备工作始于1899 年现代供水系统建设之时。1905-1907 年，根据编制的技术文件，建造了总长56 公里的市政污水系统以及污水处理厂。</complete>
+</construction>
+
+
+
+    <construction id="metal_pipes_plans">
+        <name>钻井</name>
+        <desc>建造钻井是创建现代给排水系统的必要步骤之一。</desc>
+        <complete>位于哈勒街的现代化供水厂于1899 年6 月1 日开工，建设工程耗时六个月。这个全新的供水系统配有两台由蒸汽机驱动的吸水泵，将水从深井输送到处理厂（过滤厂）。在那里，高压泵将水推入供水网络、膨胀罐和新水塔。</complete>
+</construction>
+
+
+    <construction id="training_course">
+        <name>培训工程师</name>
+        <desc>培训工程师团队是创建现代给排水系统的必要步骤之一。</desc>
+        <complete>格鲁琼兹自来水厂的建设于19 世纪末由来自波鸿（德国）的工程师海因里希·谢文委托进行，而污水系统和污水处理厂则于1905-1907 年由来自比得哥什的Windschild &amp; Langelott 公司创建。</complete>
+</construction>
+
+    <construction id="war">
+        <name>战争</name>
+        <desc>战争爆发了！部分人口必须应征入伍——包括您的工人。
+在时限内填满所有空槽位（任意类型的_ 工人卡）以完成此请求，否则将面临后果。
+已在城镇中的工人无法在此使用，您需要先使用出售模式。</desc>
+        <complete>您已将一些人员送往战场，祝愿他们好运并平安归来。
+通过这样做，您在高层市民中赢得了信任。</complete>
+</construction>
+
+    <construction id="wrong_shipment">
+        <name>发错的货物</name>
+        <desc>城堡里有人联系了您——显然是货物搞混了，城堡仓库里少了一些物品。什么物品，您问？没关系，只要发错货物的消息不传出去就行。名声很重要！
+您需要提供几张~ 资源卡来填补缺失的物品。这会让事情平息下来，但收拾残局会带来很多麻烦（而且花费不菲）。</desc>
+        <complete>这位贵族有点糊涂了，看起来是他搞错了而您是对的。人们会记住这件事的！</complete>
+</construction>
+
+    <construction id="small_gift">
+        <name>一份礼物</name>
+        <desc>格鲁琼兹最富有的贵族之一要结婚了。给他送去一份礼物将提升您在地方领主眼中的地位。
+如果您未能在婚礼前找到合适的礼物，您的声誉将受损。</desc>
+        <complete>多么棒的婚礼啊！您的礼物被新婚夫妇收到并赞赏。</complete>
+</construction>
+
+
+    <construction id="castle">
+        <name>城堡扩建</name>
+        <desc>我们的统治者决定格鲁琼兹的城堡需要修缮。您必须为殿下提供所需的建筑材料。
+在时限内完成此请求，否则将面临后果。</desc>
+        <complete>多亏了您的供应，城堡的状况好多了。统治者将确保您的贡献不会被遗忘。</complete>
+</construction>
+
+    <construction id="progress_report">
+        <name>进度报告</name>
+        <desc>城镇官员想知道您是如何处理预算的。派遣两名书记员处理文书工作并准备完整报告，否则您的声誉可能受损。</desc>
+        <complete>一切似乎都井井有条。报告涵盖了所有预算支出，毫无疑问您做得很好。</complete>
+</construction>
+
+
+    <construction id="taxes">
+        <name>税收</name>
+        <desc>您需要纳税。您需要一名书记员为您处理文书工作。
+如果您未能完成，您的声誉将受损。</desc>
+        <complete>税款已缴纳，还有什么好说的？您是模范公民。</complete>
+</construction>
+
+    <construction id="wishing_well">
+        <name>祈求水井</name>
+        <desc>圣本笃修会的修女们为她们的修院花园请求一口水井。
+她们的修会非常强大且有影响力……您最好不要忽视这个请求！
+
+提示：如果您已经在城镇中放置了所有水井，您可以出售其中一口来完成此请求。</desc>
+        <complete>圣本笃修会的修女们感谢您提供的水井，她们祝您，嗯，一切都好。</complete>
+</construction>
+
+
+
+    <construction id="summer">
+        <name>除草</name>
+        <desc>这没什么可笑的。水渠长满了植物，您必须派人去清理。
+如果您不及时处理，代价将非常巨大。</desc>
+        <complete>干得好！水渠已清理干净，水现在可以自由流动了。</complete>
+</construction>
+
+
+    <construction id="winter">
+        <name>冬天来了</name>
+        <desc>冬季期间，一些水管会冻结并阻塞水流。您必须派一些工人去解决问题。
+如果您忽视这项职责，修复损坏的费用将非常高昂。</desc>
+        <complete>干得好！尽管条件恶劣，水现在可以通过管道自由流动了。</complete>
+</construction>
+
+
+    <construction id="medium_gift">
+        <name>银或铅</name>
+        <desc>附近磨坊的主人巴格涅夫斯基先生宣称特林卡运河经过他的土地。他开始修建堰坝并破坏堤道。
+我们需要与他达成协议。也许送他一份礼物作为善意的表示可以促成一次良好的对话？</desc>
+        <complete>巴格涅夫斯基先生不会再给我们惹麻烦了。其他事您不需要知道。</complete>
+</construction>
+
+
+    <construction id="medium_donation">
+        <name>公共浴室</name>
+        <desc>国王为了换取民众对战争的支持，允许人们使用旧城堡浴室。
+这是赢得居民好感的好机会。让我们用适当的捐赠来支持国王。</desc>
+        <complete>市民现在可以使用城堡的浴室了，这部分要归功于您！</complete>
+</construction>
+
+    <construction id="law_change">
+        <name>清洁水源</name>
+        <desc>工匠和农民正在污染供水渠道，需要修改法律，但这不会让每个人都满意。有必要禁止在特林卡运河旁软化和鞣制皮革，以及建造谷仓和猪圈。
+您需要一些文件和书记员来处理细节。</desc>
+        <complete>水质大幅改善，这对每个人都有好处，也为您赢得了更多支持者。</complete>
+</construction>
+
+    <construction id="unpopular">
+        <name>不受欢迎的决定</name>
+        <desc>由于缺水，我们需要引入用水限制和额外费用。未经支付水费，任何人不得取水酿造啤酒。
+这将帮助我们获得一些资金，但不是每个人都会喜欢这个决定。
+一名书记员和一些文件应该能够处理这个问题。</desc>
+        <complete>人们可能不太高兴，但也许新的收费最终会对每个人都有利。</complete>
+</construction>
+
+    <gui id="diff_header">
+        <string>选择难度：</string>
+</gui>
+    <gui id="diff_easy">
+        <string>简单</string>
+</gui>
+
+    <gui id="diff_normal">
+        <string>普通</string>
+</gui>
+
+    <gui id="diff_hard">
+        <string>困难</string>
+</gui>
+
+    <gui id="diff_hard2">
+        <string>不可能</string>
+</gui>
+
+    <gui id="diff_back">
+        <string>返回</string>
+</gui>
+
+    <gui id="construction_complete">
+        <string>- 建筑完成！</string>
+</gui>
+
+    <gui id="conditions_not_met">
+        <string>未满足所有条件！</string>
+</gui>
+
+    <gui id="turn">
+        <string>回合</string>
+</gui>
+
+    <gui id="not_enough_money">
+        <string>@ 金币不足！</string>
+</gui>
+    <gui id="not_enough_infl">
+        <string># 影响力不足！</string>
+</gui>
+    <gui id="discarded">
+        <string>已丢弃</string>
+</gui>
+    <gui id="deck">
+        <string>牌组</string>
+</gui>
+    <gui id="cards">
+        <string>张牌</string>
+</gui>
+    <gui id="refund">
+        <string>退款</string>
+</gui>
+    <gui id="new cards">
+        <string>解锁卡片</string>
+</gui>
+    <gui id="failure penalty">
+        <string>失败惩罚</string>
+</gui>
+    <gui id="completion reward">
+        <string>完成奖励</string>
+</gui>
+    <gui id="time limit">
+        <string> 时间限制：</string>
+</gui>
+    <gui id="turns">
+        <string>回合</string>
+</gui>
+    <gui id="finalisation cost">
+        <string>完成费用</string>
+</gui>
+    <gui id="construction_card_reqs">
+        <desc2>需要：</desc2>
+</gui>
+    <gui id="drawer_name_worker">
+        <header>营房</header>
+</gui>
+    <gui id="drawer_name_component">
+        <header>仓库</header>
+</gui>
+    <gui id="drawer_name_document">
+        <header>档案室</header>
+</gui>
+    <gui id="options_sound">
+        <string>音效</string>
+</gui>
+    <gui id="options_music">
+        <string>音乐</string>
+</gui>
+    <gui id="options_fullscreen">
+        <string>全屏</string>
+</gui>
+    <gui id="options_clickmode">
+        <string>移动卡片方式...</string>
+</gui>
+    <gui id="options_language">
+        <string>语言</string>
+</gui>
+    <gui id="options_language_pl">
+        <string>Polski</string>
+</gui>
+    <gui id="options_language_en">
+        <string>English</string>
+</gui>
+    <gui id="options_language_zh">
+        <string>简体中文</string>
+</gui>
+    <gui id="options_tutorials">
+        <string>教程</string>
+</gui>
+    <gui id="options_quit">
+        <string>主菜单</string>
+</gui>
+    <gui id="options_restart">
+        <string>重新开始</string>
+</gui>
+    <gui id="options_load">
+        <string>撤销回合</string>
+</gui>
+    <gui id="options_continue">
+        <string>继续</string>
+</gui>
+    <gui id="options_on">
+        <string>开</string>
+</gui>
+    <gui id="options_off">
+        <string>关</string>
+</gui>
+    <gui id="options_clicking">
+        <string>点击</string>
+</gui>
+    <gui id="options_dragging">
+        <string>拖拽</string>
+</gui>
+    <gui id="options_close">
+        <string>关闭</string>
+</gui>
+
+
+    <gui id="main_new_game">
+        <string>新游戏</string>
+</gui>
+
+    <gui id="main_continue">
+        <string>继续游戏</string>
+</gui>
+
+    <gui id="main_options">
+        <string>选项</string>
+</gui>
+
+    <gui id="main_credits">
+        <string>制作人员</string>
+</gui>
+
+
+    <gui id="game_over">
+        <string>游戏结束
+
+您的任务失败了。
+也许您尽了最大努力只是运气不好——最终结果才是最重要的，您的声誉已无法挽回，人们不再相信您的能力。
+您已被其他人取代，来帮助格鲁琼兹解决供水问题……
+</string>
+</gui>
+
+
+    <gui id="victory">
+        <string>成功了！
+
+如今我们理所当然地享受着供水系统。我们通常不会问自己过去是什么样子，不会想到即时便捷的用水并非每时每刻每个人都能享受到的。
+多亏了您的努力，格鲁琼兹拥有了足够的水源来繁荣发展。
+
+现代化的供水和污水系统得以建成，这都归功于您！
+
+您是一位将被铭记的真正英雄！
+</string>
+        <string2>所用回合：</string2>
+</gui>
+
+    <gui id="population_increase_warning">
+    <string>警告
+此建筑将使        
+人口增长增加` +1</string>
+</gui>
+
+
+<gui id="achiev_hermans">
+<string>赫尔曼水渠        
+建造赫尔曼水渠。</string>
+</gui>
+<gui id="achiev_trynka">
+<string>特林卡运河        
+建造特林卡运河。</string>
+</gui>
+<gui id="achiev_s1">
+<string>你是赢家
+在普通难度下通关游戏。</string>
+</gui>
+<gui id="achiev_s2">
+<string>控水大师
+在困难难度下通关游戏。</string>
+</gui>
+<gui id="achiev_s3">
+<string>没有什么不可能
+在不可能难度下通关游戏。</string>
+</gui>
+<gui id="achiev_coins">
+<string>金光闪闪
+赚取5000 枚或更多金币。
+无需在单次游戏中完成。</string>
+</gui>
+<gui id="achiev_fortune">
+<string>命运之轮
+连续3 回合保持所有街区满意（供应超过需求）。</string>
+</gui>
+<gui id="achiev_requests">
+<string>我请求一个成就
+总计完成20 个请求。
+无需在单次游戏中完成。</string>
+</gui>
+<gui id="achiev_time">
+<string>绝不无聊
+在130 回合或更少回合内通关游戏。</string>
+</gui>
+<gui id="achiev_well">
+<string>我感觉不太好
+不建造任何水井通关游戏。
+（蓄水池}是}可以的}并且}完成}某个
+与水井相关的请求不会破坏此条件）
+</string>
+</gui>
+<gui id="achiev_progress">
+<string>进度</string>
+</gui>
+<gui id="privacy_policy">
+<string>隐私政策</string>
+</gui>
+
+    <popup id="victory">
+        <header>建筑完成！</header>
+        <string>给排水系统的建立结束了水厂时代，为整个格鲁琼兹开启了历史的新篇章！
+恭喜！</string>
+</popup>
+
+
+    <popup id="sell_6th">
+        <header>您的手牌已满！</header>
+        <string>您尝试在手牌已有5 张卡时退款一张卡。您可以这样做，但退款的卡将进入弃牌堆而不是您的手牌。
+是否继续？</string>
+</popup>
+
+    <popup id="fire_started">
+        <header>火灾！</header>
+        <string>城镇某处发生了火灾！
+您需要指派一名运水工（任意类型）去灭火。
+被分配到灭火的单位将从城镇中移除，其卡牌将加入弃牌堆（不会从游戏中移除）。
+您最好快点，因为肆虐的火灾每回合将消耗您大量# 影响力点数！</string>
+</popup>
+
+    <popup id="fire_spreads">
+        <header>火势蔓延！</header>
+        <string>大火仍在城镇中肆虐。
+火势越来越强，如果蔓延开来，将需要不止一名运水工才能扑灭！
+被分配到灭火的单位将从城镇中移除，其卡牌将加入弃牌堆（不会从游戏中移除）。
+您最好快点，因为肆虐的火灾每回合将消耗您大量# 影响力点数！</string>
+</popup>
+
+    <popup id="construction_already_open">
+        <header>已有一个正在进行的建筑</header>
+        <string>您一次只能进行一个建筑！
+在打出下一个建筑之前，请先完成或取消前一个建筑。</string>
+</popup>
+    <popup id="construction_build_block">
+        <header>您没有所需的卡牌！</header>
+        <string>注意建筑需求列表中的{ 符号。它表示您并非拥有所有所需卡牌——不仅在手牌或仓库中，在牌组和弃牌堆中也没有。
+
+这仅仅意味着缺失的卡牌尚未进入游戏，在此之前您将无法完成此建筑——需要先完成其他建筑来解锁它。</string>
+</popup>
+
+    <popup id="construction_cancel">
+        <header>您确定吗？</header>
+        <string>您确定要取消此建筑吗？
+建筑卡将退回到弃牌堆。此建筑中所有已打出的卡牌也将退回到弃牌堆。您将收回每张卡牌成本的一半。建筑成本不予退还。</string>
+</popup>
+    <popup id="consumable_card_blocked">
+        <header>无法在此使用此卡</header>
+        <string>这是一张一次性使用的卡牌，打出后将从游戏中移除。
+
+在此处使用它并非明智之举。</string>
+</popup>
+
+    <popup id="request_complete">
+        <header>请求完成！</header>
+</popup>
+
+    <popup id="request_failed">
+        <header>请求失败！</header>
+        <string>您未能在规定时间内完成请求。
+您现在必须承担后果……</string>
+</popup>
+
+    <popup id="inf_help">
+        <header>这非常令人不安！</header>
+        <string>您的# 影响力已降至0 以下。
+如果没有人愿意听您的，您就无法有效地负责城镇的供水工作。
+
+由于您的工作非常重要，城镇官员同意再给您一次机会。
+您被授予#50——但这是他们最后一次这样帮助您。
+如果您的# 影响力降至-100，您将不得不另谋生路了……</string>
+</popup>
+
+    <popup id="tutorial_disable">
+        <header>禁用教程？</header>
+        <string>一旦禁用教程说明，只有在新游戏中才能恢复它们。您想继续吗？</string>
+</popup>
+    <popup id="tutorial_enable">
+        <header>教程已启用！</header>
+        <string>教程说明将在您重新开始游戏后显示。</string>
+</popup>
+
+    <popup id="tutorial_hello">
+        <header>欢迎来到格鲁琼兹！</header>
+        <string>格鲁琼兹城由条顿骑士团于1291 年在今天波兰北部维斯瓦河畔的湿地上建立。位于维斯瓦河堤岸的高地势意味着该城自建立之初就一直面临清洁饮用水获取困难的问题。随着居民数量的增长，缺水问题成为在格鲁琼兹采用众多（欧洲范围内）创新技术方案的理由……</string>
+</popup>
+
+    <popup id="tutorial_3">
+        <header>建筑完成！</header>
+        <string>建筑中使用的卡牌已移至弃牌堆——当您的牌组用尽时，您最终会重新获得它们。
+
+新卡牌也已加入您的牌组。
+
+您可以通过将鼠标悬停在两个牌堆上来查看它们。</string>
+</popup>
+
+    <popup id="tutorial_7">
+        <header>回合结束</header>
+        <string>您结束回合后首先发生的是获得@ 5 枚金币。让我们看着它们飞过来！</string>
+</popup>
+
+    <popup id="tutorial_14">
+        <header>出售物品</header>
+        <string>如果您急需@ 金币，可以使用此按钮进入出售模式，将您已购买的东西——如运水工——移回手牌（除非手牌已满，此时卡牌将进入弃牌堆）。
+
+您现在可能不想这样做，但这些信息以后可能会有用。</string>
+</popup>
+
+    <popup id="tutorial_16">
+        <header>下一步</header>
+        <string>您现在已了解基础知识。
+保持$ 水平高于`，记得通过完成建筑来开发新技术。
+
+另外，请记住生活可能会给您带来意想不到的挑战……</string>
+</popup>
+    <popup id="tutorial_drawer">
+        <header>存储空间可用！</header>
+        <string>在结束此回合之前，请注意您的存储空间（营房/仓库/档案室）中至少有一个空位，并且至少有一张匹配的卡牌。
+
+也许有您想存储在那里供以后使用的东西？
+存储卡牌不花费任何费用，您可以随时打出或丢弃存储的卡牌。
+这只是个提示，决定权在您！</string>
+</popup>
+    <popup id="tutorial_drawer_construction">
+        <header>档案室中有可用建筑</header>
+        <string>您当前没有正在进行的建筑，而档案室中有一张建筑卡。
+
+您没忘记它吧？</string>
+</popup>
+    <popup id="restart_game">
+        <header>重新开始游戏？</header>
+        <string>这将从头开始重新启动整个游戏。
+
+您的所有进度将丢失！
+您确定吗？</string>
+</popup>
+    <popup id="load_game">
+        <header>重新开始本回合？</header>
+        <string>这将重新开始您当前的回合。
+是否继续？</string>
+</popup>
+    <popup id="inf_over_100">
+        <header>影响力达到100</header>
+        <string>您的# 影响力不能超过100。
+
+每超出#2，您将获得@1。
+</string>
+</popup>
+    <popup id="exit_main">
+        <header>退出游戏？</header>
+        <string>自当前回合开始以来的进度将丢失。您确定要退出到主菜单吗？
+</string>
+</popup>
+
+    <popup id="tutorial_influence">
+        <header>影响力</header>
+        <string>现在您获得（或失去）# 影响力点数。
+# 影响力显示您有多受欢迎以及人们如何评价您的管理技能。
+目前您不会有任何增减。但这不会永远持续下去，所以请小心。
+</string>
+</popup>
+
+    <popup id="population_increase">
+        <header>人口增长</header>
+        <string>城镇人口将随时间增长，随之而来的是` 用水需求增加。
+
+现在请注意人口增长发生在哪里……
+</string>
+</popup>
+    <popup id="no_cookies">
+        <header>存档功能不可用</header>
+        <string>游戏无法访问本地存储——您的浏览器可能已禁用Cookie。
+您仍然可以玩游戏，但请注意：
+- 如果您关闭或刷新页面，将无法从上次中断处继续游戏；
+- 您将无法存储您的设置        
+（语言、音量）；
+- 您将无法保存已解锁的成就；
+
+强烈建议您在开始游戏前启用Cookie。</string>
+</popup>
+
+    <tutorial id="0">
+        <string>首先，让我们建造一个基本水源。要打出水源建筑卡，请将其放置在城镇地图的任意位置。</string>
+</tutorial>
+
+    <tutorial id="1">
+        <string>这是建筑界面。您需要将所有必需的卡牌放入空槽位中。</string>
+</tutorial>
+    <tutorial id="2">
+        <string>现在，按下这个发光的按钮来完成建筑！</string>
+</tutorial>
+    <tutorial id="4">
+        <string>您已拥有水源，但市民的实际需求是什么？您可以通过启用供需视图来了解。</string>
+</tutorial>
+    <tutorial id="5">
+        <string>$  表示每个街区的供水。
+目前全是零，因为您还没有输送任何水。
+`  表示需求。
+人们可以忍受`  和$  之间的微小差异，但如果您忽视他们日益增长的需求，将会导致麻烦。</string>
+</tutorial>
+    <tutorial id="6">
+        <string>$  表示每个街区的供水。
+目前全是零，因为您还没有输送任何水。
+`  表示需求。
+人们可以忍受`  和$  之间的微小差异，但如果您忽视他们日益增长的需求，将会导致麻烦。
+再次点击按钮以禁用供需视图。</string>
+</tutorial>
+    <tutorial id="7">
+        <string>现在无事可做，只能结束回合。
+您将获得一些金币并获得一手新牌。</string>
+</tutorial>
+    <tutorial id="11">
+        <string>是时候雇佣您的第一位运水工了。将他放置在城镇的一个街区上，观察$  供水数字如何变化。</string>
+</tutorial>
+    <tutorial id="12">
+        <string>一旦您的工人被放置在城镇中，他将继续在其指定街区周围巡逻。
+您可以随时将他移动到另一个街区。
+
+现在尝试这样做。</string>
+</tutorial>
+    <tutorial id="18">
+        <string>您已建成水厂。这标志着基于管道的供水系统的开始。您需要沿街道铺设水管，并在任何想增加供水的地方设置蓄水池。点击管道按钮以显示管道/蓄水池视图。</string>
+</tutorial>
+
+    <tutorial id="19">
+        <string>目前还没有水管，但您可以在这里看到它们的入口点！
+注意地面上的颜色和数字——距离水源越远，系统效率越低。
+$ 1 $ 2 $ 3 $ 4——如所示，这是每个区域的当前效率。
+再次点击管道按钮以隐藏管道/蓄水池视图。</string>
+</tutorial>
+
+    <tooltip id="constructions_list">
+        <string>已完成的建筑：</string>
+</tooltip>
+    <tooltip id="constructions_none">
+        <string>尚无</string>
+</tooltip>
+
+    <tooltip id="card_resource">
+        <string>空位，用于存放~ 资源卡。</string>
+</tooltip>
+    <tooltip id="card_document">
+        <string>空位，用于存放\ 文件卡。</string>
+</tooltip>
+    <tooltip id="card_worker">
+        <string>空位，用于存放_ 工人卡。</string>
+</tooltip>
+    <tooltip id="end_turn">
+        <string>结束回合</string>
+</tooltip>
+    <tooltip id="finish_construction">
+        <string>完成建筑。您仍需支付完成建筑的费用。</string>
+</tooltip>
+    <tooltip id="finish_request">
+        <string>完成此请求。您仍需支付完成请求的费用。</string>
+</tooltip>
+    <tooltip id="cancel_construction_tutorial">
+        <string>取消建筑。您将收回此建筑中已使用的每张卡牌成本的50%。
+
+教程期间无法取消此建筑。</string>
+</tooltip>
+    <tooltip id="cancel_construction">
+        <string>取消建筑。您将收回此建筑中已使用的每张卡牌成本的50%。</string>
+</tooltip>
+    <tooltip id="open_close_construction">
+        <string>打开/关闭建筑界面。</string>
+</tooltip>
+    <tooltip id="open_close_request">
+        <string>打开/关闭请求界面。</string>
+</tooltip>
+    <tooltip id="close">
+        <string>关闭</string>
+</tooltip>
+    <tooltip id="sort">
+        <string>排序- 按类型排列卡牌</string>
+</tooltip>
+    <tooltip id="sell">
+        <string>出售- 收回50% 成本并将卡牌退回手牌或弃牌堆</string>
+</tooltip>
+    <tooltip id="show_pipes">
+        <string>显示/隐藏管道和水厂效率</string>
+</tooltip>
+    <tooltip id="show_supply">
+        <string>显示/隐藏供需情况</string>
+</tooltip>
+    <tooltip id="drawer_scroll">
+        <string>档案室
+(\ 文件卡存储)</string>
+</tooltip>
+    <tooltip id="drawer_res">
+        <string>仓库
+(~ 资源卡存储)</string>
+</tooltip>
+    <tooltip id="drawer_humans">
+        <string>营房
+(_ 工人卡存储)</string>
+</tooltip>
+    <tooltip id="drawer_recycle">
+        <string>丢弃卡牌</string>
+</tooltip>
+    <tooltip id="options">
+        <string>游戏选项</string>
+</tooltip>
+    <tooltip id="volume_up">
+        <string>增加音量</string>
+</tooltip>
+    <tooltip id="volume_down">
+        <string>降低音量</string>
+</tooltip>
+    <tooltip id="music_off">
+        <string>禁用游戏音乐</string>
+</tooltip>
+    <tooltip id="music_on">
+        <string>启用游戏音乐</string>
+</tooltip>
+    <tooltip id="language_en">
+        <string>English</string>
+</tooltip>
+    <tooltip id="language_pl">
+        <string>Polski</string>
+</tooltip>
+    <tooltip id="language_zh">
+        <string>简体中文</string>
+</tooltip>
+    <tooltip id="tutorials_off">
+        <string>禁用教程</string>
+</tooltip>
+    <tooltip id="tutorials_on">
+        <string>启用教程</string>
+</tooltip>
+    <tooltip id="fullscreen_on">
+        <string>启用全屏模式</string>
+</tooltip>
+    <tooltip id="fullscreen_off">
+        <string>禁用全屏模式</string>
+</tooltip>
+    <tooltip id="clickmode_on">
+        <string>无需按住。点击/轻触卡牌一次即可拾取，再次点击/轻触即可放下。</string>
+</tooltip>
+    <tooltip id="clickmode_off">
+        <string>拖放模式。点击/轻触卡牌并按住，松开即可放下。</string>
+</tooltip>
+    <tooltip id="btn_quit">
+        <string>退出到主菜单。自当前回合开始以来的进度将丢失。</string>
+</tooltip>
+    <tooltip id="btn_restart">
+        <string>重新开始游戏。从头开始将覆盖您当前的进度。</string>
+</tooltip>
+    <tooltip id="btn_load">
+        <string>重新开始当前回合。本回合开始以来的所有进度将丢失，但得益于此您可以撤销任何错误！</string>
+</tooltip>
+    <tooltip id="btn_continue">
+        <string>继续游戏！</string>
+</tooltip>
+    <tooltip id="btn_close_options">
+        <string>关闭选项</string>
+</tooltip>
+    <tooltip id="btn_new_game">
+        <string>开始新游戏！</string>
+</tooltip>
+    <tooltip id="btn_main_continue">
+        <string>继续上一局游戏</string>
+</tooltip>
+    <tooltip id="btn_achievements">
+        <string>您能全部获得吗？</string>
+</tooltip>
+    <tooltip id="btn_credits">
+        <string>谁制作了这款游戏？</string>
+</tooltip>
+    <tooltip id="btn_dificulty_easy">
+        <string>休闲模式。放轻松！
+
+- 价格-20%
+- 初始影响力+20
+- 较慢的人口增长
+
+警告：在此难度下您将无法解锁成就。</string>
+</tooltip>
+    <tooltip id="btn_dificulty_normal">
+        <string>普通游戏难度，按原本设计的方式游玩。</string>
+</tooltip>
+    <tooltip id="btn_dificulty_hard">
+        <string>适合寻求更多挑战的玩家……
+
+- 价格+5%
+- 每回合只抽4 张牌
+
+警告：教程将自动禁用。</string>
+</tooltip>
+    <tooltip id="btn_dificulty_hard2">
+        <string>仅限Waterworks! 老手。
+
+- 价格+10%
+- 每回合只抽3 张牌
+- 城镇开始时已有2 个随机街区存在用水需求。
+
+警告：教程将自动禁用。</string>
+</tooltip>
+    <tooltip id="btn_dificulty_back">
+        <string>返回主菜单</string>
+</tooltip>
+    <tooltip id="diff_hard_locked">
+        <string>[已锁定]
+通过赢得普通难度游戏来解锁。</string>
+</tooltip>
+    <tooltip id="diff_hard2_locked">
+        <string>[已锁定]
+通过赢得困难难度游戏来解锁。</string>
+</tooltip>
+    <tooltip id="diff_level">
+        <string>难度等级：</string>
+</tooltip>
+
+
+    <tooltip id="sell_what">
+        <string>出售：</string>
+</tooltip>
+
+    <tooltip id="sell_for">
+        <string>换@</string>
+</tooltip>
+    <tooltip id="popul_info1">
+        <string>城镇人口每回合开始时将增加总计`</string>
+</tooltip>
+    <tooltip id="popul_info2">
+        <string>。
+额外需求将添加到随机街区。</string>
+</tooltip>
+    <tooltip id="round_info1">
+        <string>自游戏开始以来已经过了</string>
+</tooltip>
+    <tooltip id="round_info2">
+        <string>个回合。</string>
+</tooltip>
+    <tooltip id="money_info1">
+        <string>金币
+
+您有@</string>
+</tooltip>
+    <tooltip id="money_info2">
+        <string>。
+
+每回合开始时您将额外获得@</string>
+</tooltip>
+    <tooltip id="money_info3">
+        <string>。</string>
+</tooltip>
+    <tooltip id="infl_info1">
+        <string>影响力
+
+您有#</string>
+</tooltip>
+    <tooltip id="infl_info2">
+        <string>。
+
+每回合开始时此数字将变化#</string>
+</tooltip>
+    <tooltip id="infl_info3">
+        <string>。
+
+所有超过100 的# 中的1/2 将转换为@。
+
+降至#-100 意味着游戏结束！</string>
+</tooltip>
+    <tooltip id="back_btn_main">
+        <string>返回主菜单</string>
+</tooltip>
+    <tooltip id="no_water">
+        <string>警告！无供水——检查管道？</string>
+</tooltip>
+
+    <credits id="credits_1">
+<string>游戏制作
+Mateusz "scriptwelder" Sokalszczuk</string>
+</credits>
+
+<credits id="credits_2">
+<string>音乐制作
+Chris Carlone</string>
+</credits>
+
+<credits id="credits_3">
+<string>本}游戏}基于}格但斯克大学历史系
+Wacław Kulczykowski 的研究成果</string>
+</credits>
+
+<credits id="credits_4">
+<string>游戏资助
+"传播历史研究}成果的}现代}方法：}电脑}游戏"——根据合同521/P-DUN/2019 由科学和高等教育部拨给科学传播活动的资金资助的任务。
+任务负责人：Wacław Kulczykowski。
+</string>
+</credits>
+
+<credits id="credits_5">
+<string>研究资助
+"分析位于奥萨河谷关键定居点群的中世纪水利解决方案"——由国家科学中心在PRELUDIUM 12 竞赛中资助的项目（研究项目编号2016/23/N/HS3/03168）。
+项目负责人：Wacław Kulczykowski。</string>
+</credits>
+
+<credits id="credits_6">
+<string>Archeologia Live &amp; Online (archeonline.pl)
+格但斯克大学(ug.edu.pl)
+格但斯克大学历史系(historia.ug.edu.pl)</string>
+</credits>
+
+<credits id="credits_7">
+<string>赞助
+格鲁琼兹市市长
+格鲁琼兹Władysław Łęga 神父博士博物馆
+格鲁琼兹市政供水与污水处理有限公司
+
+校对与测试
+Anton Svensson</string>
+</credits>
+
+<privacy_policy id="splash">
+<string>POLSKI
+Gra Waterworks! może zbierać dane analityczne i marketingowe.
+Przed pierwszym uruchomieniem gry musisz zaakceptować
+politykę prywatności.
+
+Kontynuując akceptujesz te warunki.
+Jeśli masz mniej niż 16 lat, zgodę musi wyrazić twój prawny opiekun.
+
+
+
+ENGLISH
+Waterworks! may collect analytical
+and marketing data.
+Before starting the game for the first time, you must accept the privacy policy.
+
+By}continuing,}you}accept}these}terms.
+If you are less than}16}years old, consent must be given by your legal guardian.
+
+简体中文
+Waterworks! 可能会收集分析和营销数据。
+首次启动游戏前，您必须接受隐私政策。
+
+继续即表示}您接受}这些}条款。
+如果您未满}16}周岁，必须由您的法定监护人表示同意。</string>
+<accept>AKCEPTUJĘ
+ACCEPT
+接受</accept>
+</privacy_policy>
+
+</strings>

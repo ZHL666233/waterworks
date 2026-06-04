@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <title>Waterworks! — 水务工坊</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        html, body {
+            width: 100%;
+            height: 100%;
+            background: #1b2632;
+            overflow: hidden;
+        }
+        #waterworks {
+            width: 100%;
+            height: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin: 0;
+            padding: 0;
+        }
+        #waterworks canvas {
+            image-rendering: pixelated;
+            image-rendering: crisp-edges;
+            display: block;
+            margin: 0 auto;
+        }
+    </style>
+</head>
+<body>
+    <div id="waterworks"></div>
+    
+    <script src="waterworks/js/phaser.min.js"></script>
+    <script src="waterworks/js/newgroundsio.min.js"></script>
+    <script src="waterworks/js/Button.min.js"></script>
+    <script src="waterworks/js/Card.min.js"></script>
+    <script src="waterworks/js/CardSlot.min.js"></script>
+    <script src="waterworks/js/Construction.min.js"></script>
+    <script src="waterworks/js/Deck.min.js"></script>
+    <script src="waterworks/js/Drawer.min.js"></script>
+    <script src="waterworks/js/Hand.min.js"></script>
+    <script src="waterworks/js/Town.min.js"></script>
+    <script src="waterworks/js/TownBlock.min.js"></script>
+    <script src="waterworks/js/TownNode.min.js"></script>
+    <script src="waterworks/js/TownPipe.min.js"></script>
+    <script src="waterworks/js/Walker.min.js"></script>
+    <script src="waterworks/js/AchNotify.min.js"></script>
+    <script src="waterworks/js/Popup.min.js"></script>
+    <script src="waterworks/js/Options.min.js"></script>
+    <script src="waterworks/js/MainMenu.min.js"></script>
+    <script src="waterworks/js/GameController.min.js"></script>
+    <script src="waterworks/js/main.min.js"></script>
+    <script>
+        window.onload = function() {
+            if (typeof runGame === 'function') {
+                runGame();
+            } else {
+                console.error('runGame not defined');
+            }
+        };
+    </script>
+</body>
+</html>
