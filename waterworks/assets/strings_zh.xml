@@ -49,7 +49,7 @@
          
     <card id="trained_personnel">
         <name>工程师</name>
-        <desc>一组受过培训的给排水系统操作人员。
+        <desc>一组受过培训的 给排水系统操作人员。
 可用于}建筑}工程。
 使用后从游戏中移除。</desc>
         <desc2>"未来是我们的！"</desc2>
@@ -70,7 +70,7 @@
     <card id="sump">
         <name>蓄水池</name>
         <desc>需要水管连接。
-为相邻街区提供$ x。x*取决于距离和水厂等级。</desc>
+为相邻街区提供 $  x。 x*取决于距离和 水厂等级。</desc>
         <desc2>"自动补水桶！"</desc2>
 </card>
 
@@ -176,32 +176,32 @@
 </card>
     <card id="small_gift">
         <name>小礼物</name>
-        <desc>一枚闪亮的金戒指。你可以 把这份礼物送给城镇统治者 以获得#10。</desc>
+        <desc>一枚闪亮的金戒指。你可以 把这份礼物送给 城镇统治者以获得 #10。</desc>
         <desc2>"闪闪发光！"</desc2>
 </card>
     <card id="medium_gift">
         <name>普通礼物</name>
-        <desc>一条漂亮的项链。你可以 把这份礼物送给城镇统治者 以获得#20。</desc>
+        <desc>一条漂亮的项链。你可以 把这份礼物送给 城镇统治者以获得 #20。</desc>
         <desc2>"最新时尚潮流！"</desc2>
 </card>
     <card id="big_gift">
         <name>厚礼</name>
-        <desc>这条手镯太闪亮了！你可以 把这份礼物送给城镇统治者 以获得#40。</desc>
+        <desc>这条手镯太闪亮了！你可以 把这份礼物送给 城镇统治者以获得 #40。</desc>
         <desc2>"闪光的未必都是金子，还有宝石。"</desc2>
 </card>
     <card id="small_donation">
         <name>小额捐赠</name>
-        <desc>打出此文件可获得@10。</desc>
+        <desc>打出此文件 可获得 @10。</desc>
         <desc2>"感谢您的捐赠！"</desc2>
 </card>
     <card id="medium_donation">
         <name>普通捐赠</name>
-        <desc>打出此文件可获得@20。</desc>
+        <desc>打出此文件 可获得 @20。</desc>
         <desc2>"这将惠及我们所有人！"</desc2>
 </card>
     <card id="big_donation">
         <name>慷慨捐赠</name>
-        <desc>打出此文件可获得@40。</desc>
+        <desc>打出此文件 可获得 @40。</desc>
         <desc2>"水必须流动！"</desc2>
 </card>
         
@@ -221,8 +221,7 @@
 </card>
     <card id="sewers_layout">
         <name>下水道布局图</name>
-        <desc>城镇地下
-下水道布局图。</desc>
+        <desc>城镇地下 下水道布局图。</desc>
         <desc2>"鳄鱼？你疯了吗？"</desc2>
 </card>
     <card id="funding_increase">
@@ -240,7 +239,7 @@
 
     <card id="water_source">
         <name>水源</name>
-        <desc>最基本的水源，河边的码头。</desc>
+        <desc>最基本的水源， 河边的码头。</desc>
         <desc2></desc2>
 </card>
     <card id="upgraded_water_source">
@@ -250,62 +249,62 @@
 </card>
     <card id="quarters">
         <name>营房</name>
-        <desc>可存储_ 工人卡供日后使用。</desc>
+        <desc>可存储 _ 工人卡 供日后使用。</desc>
         <desc2></desc2>
 </card>
     <card id="archive">
         <name>档案室</name>
-        <desc>可存储\ 文件卡供日后使用。</desc>
+        <desc>可存储 \ 文件卡 供日后使用。</desc>
         <desc2></desc2>
 </card>
     <card id="warehouse">
         <name>仓库</name>
-        <desc>可存储~ 资源卡供日后使用。</desc>
+        <desc>可存储 ~ 资源卡 供日后使用。</desc>
         <desc2></desc2>
 </card>
     <card id="quarters2">
         <name>营房II</name>
-        <desc>增加营房中_ 工人卡槽位数量。</desc>
+        <desc>增加营房中 _ 工人 卡槽位数量。</desc>
         <desc2></desc2>
 </card>
     <card id="archive2">
         <name>档案室II</name>
-        <desc>增加档案室中\ 文件卡槽位数量。</desc>
+        <desc>增加档案室中 \ 文件 卡槽位数量。</desc>
         <desc2></desc2>
 </card>
     <card id="warehouse2">
         <name>仓库II</name>
-        <desc>增加仓库中~ 资源卡槽位数量。</desc>
+        <desc>增加仓库中 ~ 资源 卡槽位数量。</desc>
         <desc2></desc2>
 </card>
     <card id="quarters3">
         <name>营房III</name>
-        <desc>将营房中_ 工人卡槽位提升至最大。</desc>
+        <desc>将营房中 _ 工人 卡槽位提升至最大。</desc>
         <desc2></desc2>
 </card>
     <card id="archive3">
         <name>档案室III</name>
-        <desc>将档案室中\ 文件卡槽位提升至最大。</desc>
+        <desc>将档案室中 \ 文件 卡槽位提升至最大。</desc>
         <desc2></desc2>
 </card>
     <card id="warehouse3">
         <name>仓库III</name>
-        <desc>将仓库中~ 资源卡槽位提升至最大。</desc>
+        <desc>将仓库中 ~ 资源 卡槽位提升至最大。</desc>
         <desc2></desc2>
 </card>
     <card id="office">
         <name>商人行会</name>
-        <desc>金钱可以买到声望……反之亦然。</desc>
+        <desc>金钱可以买到声望…… 反之亦然。</desc>
         <desc2></desc2>
 </card>
     <card id="stable">
         <name>马厩</name>
-        <desc>马厩让你可以使用运水马车。</desc>
+        <desc>马厩让你可以 使用运水马车。</desc>
         <desc2></desc2>
 </card>
     <card id="stable2">
         <name>马厩II</name>
-        <desc>马厩让你可以多买一辆运水马车。</desc>
+        <desc>马厩让你可以 多买一辆运水马车。</desc>
         <desc2></desc2>
 </card>
     <card id="carts">
@@ -325,12 +324,12 @@
 </card>
     <card id="cartography">
         <name>制图学</name>
-        <desc>勘察周边地区并绘制地图。</desc>
+        <desc>勘察周边地区 并绘制地图。</desc>
         <desc2></desc2>
 </card>
     <card id="water_crafts_guild">
         <name>工匠行会</name>
-        <desc>帮助开发新技术的专家。</desc>
+        <desc>帮助开发 新技术的专家。</desc>
         <desc2></desc2>
 </card>
     <card id="bucket_wheel_plans">
@@ -370,7 +369,7 @@
 </card>
     <card id="workshop">
         <name>工坊</name>
-        <desc>一个水力驱动的制作工具工坊。</desc>
+        <desc>一个水力驱动的 制作工具工坊。</desc>
         <desc2></desc2>
 </card>
     <card id="workshop2">
@@ -410,7 +409,7 @@
 </card>
     <card id="chain_lift_plans">
         <name>链式提升机</name>
-        <desc>用链式提升机替换斗轮的计划。</desc>
+        <desc>用链式提升机 替换斗轮的计划。</desc>
         <desc2></desc2>
 </card>
     <card id="trynka_channel">
@@ -529,14 +528,14 @@
 </construction>
     <construction id="office">
         <name>商人行会</name>
-        <desc>金钱可以买到声望……反之亦然。您的任务常常需要赢得民心，而我们商人行会的朋友们在这方面经验丰富。他们还知道如何获取额外资金，这项技能对您来说非常有用。</desc>
+        <desc>金钱可以买到声望…… 反之亦然。您的任务常常需要赢得民心，而我们商人行会的朋友们在这方面经验丰富。他们还知道如何获取额外资金，这项技能对您来说非常有用。</desc>
         <complete>您现在可以获取新卡片。捐赠将以# 影响力换取@ 金币。礼物可让您获得# 影响力，但需要先用@ 金币购买。
 商人还提供了他们从远方带来的计划，这将使您能够对城镇周边地区进行制图测量。</complete>
 </construction>
 
     <construction id="stable">
         <name>马厩</name>
-        <desc>建造马厩将让您可以使用运水马车。这些马拉车辆能够运送大量水。
+        <desc>建造马厩将让您 可以使用运水马车。这些马拉车辆能够运送大量水。
 
 运水马车
 巡逻街区+8$
@@ -546,7 +545,7 @@
 
     <construction id="stable2">
         <name>马厩II</name>
-        <desc>建造更大的马厩将使您能够多获得一辆运水马车。</desc>
+        <desc>建造更大的马厩将使 您能够多获得一辆运水马车。</desc>
         <complete>马厩已扩建。您现在可以多使用一辆运水马车。</complete>
 </construction>
 
